@@ -1,0 +1,12 @@
+Aptitude,Analytical PS,Verbal skills
+Positive attitude,Willingness to learn 
+Excellent communication skills
+Internships/projects/part time jobs 
+Online courses + certifications
+Strong coding skills for high pay companies 
+C,c++, Java,DSA,DBMS
+Academic 
+Mini projects (imp) 
+Oracle (java and dbms certification)
+Service now (software)
+Leet code and hackerhack
